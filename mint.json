@@ -76,11 +76,25 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "API Reference",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "obtain-a-jwt-token",
+        "get-first-available-slot",
+        "find-providers",
+        "create-a-provider",
+        "get-a-provider",
+        "update-a-provider",
+        "delete-a-provider",
+        "find-services",
+        "create-a-service",
+        "get-a-service",
+        "update-a-service",
+        "delete-a-service",
+        "find-bookings",
+        "create-a-booking",
+        "get-a-booking",
+        "update-a-booking",
+        "delete-a-booking"
       ]
     }
   ],
